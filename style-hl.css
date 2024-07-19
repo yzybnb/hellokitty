@@ -1,4 +1,4 @@
-body{background:hotpink;}
+body{background:pink;}
 
 h1{
 	color: white;
@@ -19,6 +19,6 @@ button{
 	font-size: xxx-large;
 	color: white;
 	float: right;
-	background-color: hotpink;
+	background-color: pink;
 	border-color: white;
 }
