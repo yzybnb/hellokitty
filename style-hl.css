@@ -1,0 +1,24 @@
+body{background:hotpink;}
+
+h1{
+	color: white;
+	font-size: xxx-large;
+	font-weight: bolder;
+}
+h2{
+	color: white;
+	font-size: xx-large;
+	font-weight: bolder;
+}
+p{
+	color: white;
+	font-size: xx-large;
+	font-weight: bold;
+}
+button{
+	font-size: xxx-large;
+	color: white;
+	float: right;
+	background-color: hotpink;
+	border-color: white;
+}
